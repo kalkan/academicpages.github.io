@@ -30,17 +30,18 @@ Work experience
 * TÜBİTAK / Proje Asistanı
   * 02.2009 - 02.2012,  İstanbul Teknik Üniversitesi
   * TÜBİTAK ve Alman Milli Eğitim Bakanlığı ortak projesinde 3 yıl süre ile proje asistanlığı. Bu süre içinde uydu görüntülerinden süreç bazlı görüntü işleme adımları ile boş yerleşim alanların tespit edilmesi üzerine bir sınıflandırma sisteminin geliştirilmesi. Daha sonrasında ise projenin Coğrafi Bilgi Sistemi’nin kurulması ile birlikte mekansal analizlerin ve çok kriterli mekansal karar destek sisteminin oluşturulması.	
-
-
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Remote Sensing
+  * Hyperspectral Remote Sensing
+  * Remote Sensing of Vegetation
+  * Satellite Image Processing
+* Object Based Image Analysis
+* Aerial Surveying
+* Multi-criteria Spatial Decision Support Systems
+* Web GIS
+* Spatial Databases
 
 Publications
 ======
