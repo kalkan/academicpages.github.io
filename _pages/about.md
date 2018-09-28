@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-In this website, you will find information about my previous and cuurent works and find materials about my currents courses. 
+In this website, you will find information about my previous and current works and find materials about my currents courses. 
 
 You can contact with me by sending an e-mail to kaankalkan@gmail.com
 
