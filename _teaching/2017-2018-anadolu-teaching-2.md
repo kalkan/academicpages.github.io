@@ -1,5 +1,5 @@
 ---
-title: "Anadolu Üniversitesi - Uydu Görüntü İşleme"
+title: "Anadolu Üniversitesi - Uydu Görüntü İşleme UCS635"
 collection: teaching
 type: "Ph.D. course"
 permalink: /teaching/2017-2018-anadolu-teaching-2
