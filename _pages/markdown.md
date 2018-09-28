@@ -200,3 +200,15 @@ Still sticking with science and Isaac Newton's E = MC<sup>2</sup>, which should 
 ### Variable Tag
 
 This allows you to denote <var>variables</var>.
+
+A data-driven personal website
+======
+
+Create content & metadata
+------
+
+**Markdown generator**
+
+![Editing a markdown file for a talk](/images/editing-talk.png)
+
+[guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/)
