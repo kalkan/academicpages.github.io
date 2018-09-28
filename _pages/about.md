@@ -11,5 +11,6 @@ redirect_from:
 In this website, you will find information about my previous and cuurent works and find materials about my currents courses. 
 
 You can contact with me by sending an e-mail to kaankalkan@gmail.com
+
 My youtube page which you can find several Turkish videos related geomatics [kaankalkangeomatik](https://www.youtube.com/kaankalkangeomatik)
 
