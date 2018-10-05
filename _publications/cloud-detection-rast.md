@@ -1,6 +1,6 @@
 ---
 title: "Segmentation Based Cloud and Cloud Shadow Detection in Satellite Imagery"
-collection: publications
+collection: article
 permalink: /publication/cloud-detection-rast
 excerpt: 'Journal from my P.hD. about cloud and shadow detection from Landsat-8 imagery'
 date: 2017-09-14
