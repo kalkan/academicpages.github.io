@@ -1,7 +1,7 @@
 ---
 title: "Classification-based and rule-based methods for cloud detection in high resolution satellite imagery"
 collection: publications
-permalink: /publication/ieee-cloud-detection-number-2
+permalink: /publication/siu-cloud-detection
 excerpt: 'Our team paper about cloud detection methods'
 date: 2018-05-02
 venue: '2018 26th Signal Processing and Communications Applications Conference (SIU)'
