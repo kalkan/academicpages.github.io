@@ -1,5 +1,5 @@
 ---
-title: "İstanbul Teknik Üniversitesi Geomatik Mühendisliği Bölümü"
+title: "İstanbul Teknik Üniversitesi Geomatik Mühendisliği Bölümü (Arşiv)"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2010-2014-teaching-1
