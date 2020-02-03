@@ -14,7 +14,15 @@ main:
         
 #  - title: "Blog Posts"
 #    url: /year-archive/
+
+  - title: "Youtube"
+    url: /youtube/
+
+  - title: "Geospatial Python"
+    url: /geopy/
+
     
   - title: "CV"
     url: /cv/
+
 
