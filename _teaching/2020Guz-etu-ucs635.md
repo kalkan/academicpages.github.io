@@ -23,9 +23,9 @@ Eskişehir Teknik Üniversitesi, Yer ve Uzay Bilimleri Enstitüsü, Uzaktan Alg�
 Ödevler
 ------
 > **1. ödev** ile ilgili bilgileri [linkte](http://kalkan.github.io/files/ucs635-2019/odev1-2020-2.pdf) bulabilirsiniz. 
-* Ödevin son teslim tarihi 29 Kasım 2020 Saat 23:00 
+* Ödevin son teslim tarihi: 29 Kasım 2020 Saat 23:00 
 * Ödevin yılsonu notuna katkısı %30'dir.
 
 > **2. ödev** ile ilgili bilgileri [linkte](http://kalkan.github.io/files/ucs635-2019/odev2-2020-2.pdf) bulabilirsiniz. 
-* Ödevin son teslim tarihi 13 Aralık 020 Saat 23:00 
+* Ödevin son teslim tarihi: ~~13 Aralık 020 Saat 23:00~~ | 20 Aralık 020 Saat 23:00 
 * Ödevin yılsonu notuna katkısı %20'dir.
