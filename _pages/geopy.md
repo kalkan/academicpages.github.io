@@ -5,6 +5,21 @@ permalink: /geopy/
 author_profile: true
 ---
 
-[Python ile Mekansal Veri İşlemeye Giriş](https://github.com/kalkan/mekansal-python)
+Python ile Mekansan Programlama ile İlgili Örneklerin Olduğu Github Repolarım
 
-<iframe width="280" height="155" src="https://www.youtube.com/embed/videoseries?list=PLuczIHpbxfzfajILaWSjW7X5Cs-gg63JR" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[Python ile Mekansal Veri İşlemeye Giriş](https://github.com/kalkan/mekansal-python)
+[Corona Haritalama Atölyesi](https://github.com/kalkan/corona-haritalama-atolyesi-geopandas)
+[Airbnb Verilerinin Python ile Analizi](https://github.com/kalkan/airbnb-ist-python-analiz)
+
+İlgili Youtube Videoları
+
+[Mekansal Python 1 - Geopandas, Jupyter Notebook, Veri Okuma, Alan, Tampon Analizi](https://www.youtube.com/watch?v=NOMWTHSrlvI&ab_channel=KaanKalkan)
+[Mekansal Python 2 - Nokta, Çizgi, Alan Verileri, Koordinat Sistemleri, Görselleştirme](https://www.youtube.com/watch?v=JX9S7tPnrzQ&ab_channel=KaanKalkan)
+[Mekansal Python 3 - Mekansal Operasyonlar](https://www.youtube.com/watch?v=r2PfCK26ZL8&ab_channel=KaanKalkan)
+[Mekansal Python 4 - Mekansal Operasyonlar, Veri Birleştirme (Excel ile](https://www.youtube.com/watch?v=O9NrAiDGxhs&ab_channel=KaanKalkan)
+[Mekansal Python 5 - Görselleştirme, Harita Yapımı](https://www.youtube.com/watch?v=gofAu-jHkEw&ab_channel=KaanKalkan)
+
+[Python ile COVID-19 Verilerini Haritalama](https://www.youtube.com/watch?v=rZi765_Y5X8&ab_channel=KaanKalkan)
+
+[Python ile Airbnb Verisi Analizleri ve Görselleştirme - 1](https://www.youtube.com/watch?v=Fh3sE2vbUgY&ab_channel=KaanKalkan)
+[Python ile Airbnb Verisi Analizleri ve Görselleştirme - 2](https://www.youtube.com/watch?v=SDODpT_NKq8&ab_channel=KaanKalkan)
