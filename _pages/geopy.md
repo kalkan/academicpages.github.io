@@ -5,7 +5,7 @@ permalink: /geopy/
 author_profile: true
 ---
 
-Python ile Mekansal Programlama ile İlgili Örneklerin Olduğu Github Repolarım
+> Python ile Mekansal Programlama ile İlgili Örneklerin Olduğu Github Repolarım
 
 [Python ile Mekansal Veri İşlemeye Giriş](http://github.com/kalkan/mekansal-python)
 
@@ -13,7 +13,7 @@ Python ile Mekansal Programlama ile İlgili Örneklerin Olduğu Github Repoları
 
 [Airbnb Verilerinin Python ile Analizi](http://github.com/kalkan/airbnb-ist-python-analiz)
 
-İlgili Youtube Videoları
+> İlgili Youtube Videoları
 
 [Mekansal Python 1 - Geopandas, Jupyter Notebook, Veri Okuma, Alan, Tampon Analizi](http://www.youtube.com/watch?v=NOMWTHSrlvI&ab_channel=KaanKalkan)
 
