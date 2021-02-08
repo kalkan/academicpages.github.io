@@ -23,7 +23,9 @@ Aghlmand, M., Kalkan, K., & Onur, M. İ. (2019). Sentinel 2 Uydusunun Orman Sın
 Kalkan, K., Maktav, M. D., & Bayram, B. (2019). Shoreline Extraction from Cloud Removed Landsat 8 Image: Case Study Lake Erçek, Turkey. In Mathematical Modeling of Real World Problems: Interdisciplinary Studies in Applied Mathematics (pp. 37–55). Nova Science Publishers. https://novapublishers.com/shop/mathematical-modeling-of-real-world-problems-interdisciplinary-studies-in-applied-mathematics/
 
 Kalkan, K. (2019, December). Uzaktan Algılama. Bilim ve Teknik Dergisi, 72–81. https://bilimteknik.tubitak.gov.tr/system/files/makale/72_81_uzaktan_algilama.pdf
-Teke, M., Efendioğlu, M., Demirpolat, C., Berktaş, O., & Kalkan, K. (2019). Uydu Görüntü Kıymetlendirme ve Uzaktan Algılama İçin Milli Veri Kıymetlendirme Yazılımı (VKY) Geliştirilmesi. X. Türkiye Ulusal Fotogrametrive Uzakatan Algılama Birliği (TUFUAB) Teknik Sempozyumu. http://tufuab2019.aksaray.edu.tr/wp-content/uploads/2019/12/tam_metin_kitap.pdf
+Teke, M., Efendioğlu, M., Demirpolat, C., Berktaş, O., & Kalkan, K. (2019). 
+
+Uydu Görüntü Kıymetlendirme ve Uzaktan Algılama İçin Milli Veri Kıymetlendirme Yazılımı (VKY) Geliştirilmesi. X. Türkiye Ulusal Fotogrametrive Uzakatan Algılama Birliği (TUFUAB) Teknik Sempozyumu. http://tufuab2019.aksaray.edu.tr/wp-content/uploads/2019/12/tam_metin_kitap.pdf
 
 Kalkan, K. (2018). Landsat 8 ve Sentinel-2 Uydu Görüntüleri ile Bölgesel Ortalama Bulutluluk Tespiti. VII. Uzaktan Algılama ve CBS Sempozyumu UZAL-CBS2018. https://doi.org/10.15659/uzalcbs2018.7040
 
