@@ -4,6 +4,8 @@ title: "Publications"
 permalink: /pubs/
 author_profile: true
 ---
+Ahmadi, H., Kalkan, K. Mapping of Ophiolitic Complex in Logar and Surrounding Areas (SE Afghanistan) With ASTER Data. J Indian Soc Remote Sens (2021). https://doi.org/10.1007/s12524-021-01319-4
+
 Aghlmand, M , Kalkan, K , Onur, M , Öztürk, G , Ulutak, E . (2021). Google Earth Engine ile arazi kullanımı haritalarının üretimi . Niğde Ömer Halisdemir Üniversitesi Mühendislik Bilimleri Dergisi , 10 (1) , 38-47 . https://dergipark.org.tr/en/pub/ngumuh/issue/59647/795977
 
 Yıldırım, V., Kalkan, K. (2021). Türkiye için Gece Işıkları ve İnsani Gelişme Endeksinin Mekansal İstatistiksel Analizi (A Spatial Statistical Evaluation of Night Lights and Human Development Index for Turkey). https://www.harita.gov.tr/images/dergi/makaleler/16c93389b9eb668.pdf
