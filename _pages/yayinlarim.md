@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /pubs/
 author_profile: true
 ---
-Pekkan, Ö. I., Kalkan, K., & Çabuk, A. (2020). Arazi Örtüsü Değişiminin Modellenmesi: Karaburun Yarımadası Örneği. GSI Journals Serie C: Advancements in Information Sciences and Technologies, 3(2), 21–38. https://dergipark.org.tr/tr/pub/aist/issue/52831/677073
+Nasery, S., & Kalkan, K. (2021). Snow avalanche risk mapping using GIS-based multi-criteria decision analysis: the case of Van, Turkey. Arabian Journal of Geosciences, 14(9), 782. https://doi.org/10.1007/s12517-021-07112-4
 
 Ahmadi, H., Kalkan, K. Mapping of Ophiolitic Complex in Logar and Surrounding Areas (SE Afghanistan) With ASTER Data. J Indian Soc Remote Sens (2021). https://doi.org/10.1007/s12524-021-01319-4
 
