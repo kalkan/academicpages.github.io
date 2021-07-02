@@ -4,6 +4,8 @@ title: "Publications"
 permalink: /pubs/
 author_profile: true
 ---
+Pekkan, Ö. I., Kalkan, K., & Çabuk, A. (2020). Arazi Örtüsü Değişiminin Modellenmesi: Karaburun Yarımadası Örneği. GSI Journals Serie C: Advancements in Information Sciences and Technologies, 3(2), 21–38. https://dergipark.org.tr/tr/pub/aist/issue/52831/677073
+
 Ahmadi, H., Kalkan, K. Mapping of Ophiolitic Complex in Logar and Surrounding Areas (SE Afghanistan) With ASTER Data. J Indian Soc Remote Sens (2021). https://doi.org/10.1007/s12524-021-01319-4
 
 Aghlmand, M , Kalkan, K , Onur, M , Öztürk, G , Ulutak, E . (2021). Google Earth Engine ile arazi kullanımı haritalarının üretimi . Niğde Ömer Halisdemir Üniversitesi Mühendislik Bilimleri Dergisi , 10 (1) , 38-47 . https://dergipark.org.tr/en/pub/ngumuh/issue/59647/795977
